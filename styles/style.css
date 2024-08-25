@@ -19,10 +19,6 @@
   position: relative;
   min-height: 668px;
   padding: 10px;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-image: url(../images/cover-image-dark.png);
 }
 
 .decorated-zone {
