@@ -446,11 +446,11 @@
   .header__theme-menu-list {
     display: flex;
     flex-direction: row;
-    justify-content: center; 
-    width: 100%; 
-    position: absolute; 
-    inset-block-start: 0; 
-    inset-inline-start: 0; 
+    justify-content: center;
+    width: 100%;
+    position: absolute;
+    inset-block-start: 0;
+    inset-inline-start: 0;
     gap: 0;
     margin-block-start: 20px;
     padding-inline-start: 4px;
@@ -470,7 +470,7 @@
   .section__title {
     display: block;
     min-width: 315px;
-    text-align: left; 
+    text-align: left;
     word-wrap: break-word;
     margin-block-start: 60px;
   }
@@ -498,14 +498,14 @@
     flex-wrap: nowrap;
     justify-content: space-between;
     align-items: baseline;
-    gap: 20px;    
+    gap: 20px;
     box-sizing: border-box;
-    margin: 0 auto; 
+    margin: 0 auto;
     margin-block-start: -15px;
   }
 
   .text-block-reduce-of-concentration .text-block .main-text {
-    flex: 1 1 calc(33.33% - 20px); 
+    flex: 1 1 calc(33.33% - 20px);
     box-sizing: border-box;
   }
 
