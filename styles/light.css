@@ -84,10 +84,12 @@
     --title-color: #ffc2e6;
     --header-button-hover: rgba(53, 52, 48, 0.4);
     --header-button-active: rgba(53, 52, 48);
+    
   } 
 }
 
 @media (width >= 768px) {
+
   .page.theme_light .header__theme-menu {
     margin-block-start: 70px;
   }
