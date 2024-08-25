@@ -21,6 +21,7 @@
   --header-button-hover: rgba(53, 52, 48, 0.4);
   --header-button-active: rgba(53, 52, 48);
     background-color: var(--background-color);
+    background-attachment: fixed;
 }
 
 .page.theme_light .header {
@@ -28,7 +29,6 @@
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  background-attachment: fixed;
 }
 
 .page.theme_light .rec-decoration {
