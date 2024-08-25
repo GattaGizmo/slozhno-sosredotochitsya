@@ -4,12 +4,7 @@
   display: flex;
   flex-direction: column;
   font-family: 'IBM Plex Mono', sans-serif;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-attachment: fixed;
   background-color: var(--background-color);
-  background-image: url(../images/cover-image-dark.png);
   /* сохраните в разметке и стилях класс page. На его основе работает скрипт. */
 }
 
@@ -23,6 +18,11 @@
   position: relative;
   min-height: 668px;
   padding: 10px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  background-image: url(../images/cover-image-dark.png);
 }
 
 .decorated-zone {
@@ -163,7 +163,6 @@
   flex-direction: column;
   padding: 10px;
   margin-block-end: 21px;
-
 }
 
 .section-concentration {
