@@ -71,8 +71,6 @@
   outline: 1px solid var(--header-button-hover);
 }
 
-
-
 @media (prefers-color-scheme: light) {
   :root {
     --background-image: url(..//images/cover-image-light.png);
