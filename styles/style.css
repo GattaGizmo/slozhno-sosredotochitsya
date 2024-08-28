@@ -128,7 +128,6 @@
 .header__theme-menu-button:focus-visible {
   outline: none;
   border-block-end: 1px solid var(--menu-text-color);
-  border-block-end: 1px solid var(--menu-text-color);
 }
 
 .header__theme-menu-button:hover {
