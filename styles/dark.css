@@ -22,10 +22,6 @@
   --background-image: url(../images/cover-image-dark.png);
 }
 
-.page.theme_dark .header__theme-menu-button:hover {
-  border: 1px solid rgba(255, 0, 112, 0.4);
-}
-
 .page.theme_dark .rec-decoration {
   display: inline-block;
 }
